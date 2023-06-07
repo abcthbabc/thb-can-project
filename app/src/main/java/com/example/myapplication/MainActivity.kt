@@ -20,8 +20,7 @@ class MainActivity : AppCompatActivity() {
 
 //    git config --global user.name "Your Name"
 //    git config --global user.email you@example.com
-//
-
+//Enumerating
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
