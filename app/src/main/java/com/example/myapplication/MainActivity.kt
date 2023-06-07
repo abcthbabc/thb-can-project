@@ -11,7 +11,13 @@ import android.view.Menu
 import android.view.MenuItem
 import com.example.myapplication.databinding.ActivityMainBinding
 
+
 class MainActivity : AppCompatActivity() {
+
+
+// git config --global --edit
+    //      git commit --amend --reset-author
+
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
