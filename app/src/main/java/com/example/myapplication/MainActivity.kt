@@ -18,6 +18,9 @@ class MainActivity : AppCompatActivity() {
 // git config --global --edit
     //      git commit --amend --reset-author
 
+//    git config --global user.name "Your Name"
+//    git config --global user.email you@example.com
+//
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
